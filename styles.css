@@ -1,0 +1,22 @@
+img{
+    width:500px;
+    height:auto;
+}
+
+body{
+    background-color:tan;
+}
+
+h1,
+h2,
+h3{
+    font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+p,
+ul,
+ol{
+    font-family: "Copperplate", "Lucida Handwriting", sans-serif;
+    font-size: 20px;
+}
+
