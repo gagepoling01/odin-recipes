@@ -1,21 +1,35 @@
-img{
-    width:500px;
-    height:auto;
+html{
+    background-color: white;
 }
 
 body{
     background-color:tan;
 }
 
-h1,
+img{
+    width:500px;
+    height:auto;
+}
+
+.title{
+    text-align: center;
+    font-family: "Courier New", "Times New Roman", sans-serif;
+    background-color: white;
+}
+
 h2,
 h3{
     font-family: "Courier New", "Times New Roman", sans-serif;
 }
 
-p,
-ul,
-ol{
+.list{
+    font-family: "Copperplate", "Lucida Handwriting", sans-serif;
+    font-size: 20px;
+    display: table;
+    margin: auto;
+}
+
+p{
     font-family: "Copperplate", "Lucida Handwriting", sans-serif;
     font-size: 20px;
 }
